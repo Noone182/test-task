@@ -1,4 +1,6 @@
-# test
+# Vue test task for crmm company.
+
+Github Pages: https://noone182.github.io/test-task/
 
 ## Project setup
 ```
